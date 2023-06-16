@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LucasMZ-Portfolio/src/static/css/main.513f7087.css",
+    "main.js": "/LucasMZ-Portfolio/src/static/js/main.44bdd826.js",
+    "static/js/787.1ed0c42c.chunk.js": "/LucasMZ-Portfolio/src/static/js/787.1ed0c42c.chunk.js",
+    "static/media/javaproject.png": "/LucasMZ-Portfolio/src/static/media/javaproject.beba49634af7186a7253.png",
+    "static/media/leagueproject.jpg": "/LucasMZ-Portfolio/src/static/media/leagueproject.4eabcd86d74104be4694.jpg",
+    "index.html": "/LucasMZ-Portfolio/src/index.html",
+    "main.513f7087.css.map": "/LucasMZ-Portfolio/src/static/css/main.513f7087.css.map",
+    "main.44bdd826.js.map": "/LucasMZ-Portfolio/src/static/js/main.44bdd826.js.map",
+    "787.1ed0c42c.chunk.js.map": "/LucasMZ-Portfolio/src/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.513f7087.css",
+    "static/js/main.44bdd826.js"
+  ]
+}
